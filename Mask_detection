@@ -1,1 +1,2 @@
-
+This is not a live model this model works on the pre trained dataset downloaded from Kaggle
+Dataset url : "!kaggle datasets download -d prithwirajmitra/covid-face-mask-detection-dataset"
